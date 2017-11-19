@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["ctrl+alt+g"], 
+		"command":"search_github_code"
+	},
+	{
+		"keys": ["ctrl+alt+f"], 
+		"command":"search_sof_code"
+	}
+]
