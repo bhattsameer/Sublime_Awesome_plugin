@@ -4,4 +4,4 @@ Since our ultimate goal is to help developers and this is what inspired us to de
 # Future Enhancements
 Our main focus in this project is to provide an easiest way to find out the best relavant code. In future we will add a functionality that will allow users to search for code in editor itself. That is, upon selecting code/text and hitting Search option it will show the top 5 most relavant code snippets. If user finds any one of them the best match, he/she can find whole snippets by clicking on "View More".
 
-<img src="https://lh4.googleusercontent.com/ddiMz1bNk0-zsAoRMVcAmLjiwEocfv8te6WVi0_8WYz0-Qi16kZ_dnC2h2fU32acCJsS5FpgDRhKfIVO3S6g=w1366-h672" alt="Demo screen shot of working plugin in sublime">
+
